@@ -1,0 +1,11 @@
+{
+    "USER_DATA_DIR": "twitter_community_automod_bot",
+    "TARGET_TWITTER_COMMUNITY_URL": "https://x.com/i/communities/1788526663720210941",
+    "TARGET_HEADERS_EXTRACTION_FROM_REQUEST_URL_MATCH": "x.com/i/api/graphql/qhyB04iOPDQtpUQjB3C0WQ/CommunityTweetsTimeline", // u might have to change this per-community. idk.
+    "USE_DISCORD_BOT": false,
+    "DISCORD_LOG_CHANNEL": 1328697238821670955,
+    "DISCORD_MOD_ROLE": 1240458025031045120,
+    "DISCORD_BOT_TOKEN": "BOT_TOKEN_HERE",
+    "USE_DISCORD_WEBHOOK": false,
+    "DISCORD_WEBHOOK_URL": "WEBHOOK_URL_HERE"
+}
